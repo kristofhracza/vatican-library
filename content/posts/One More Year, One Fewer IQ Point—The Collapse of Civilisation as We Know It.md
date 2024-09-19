@@ -10,11 +10,11 @@ categories: ["Education", "Society","Informal"]
 This article explores the factors contributing to the collapse of society and why it’s crucial to make a change **FAST**.               
 It's a controversial piece of writing, and I'd like to point out that I'm only 20 years old as of writing this piece, so this is not to be taken as a guide. 
 
-These points come from personal experiences as well as observation of today's society, conversations with different people, analysing behaviour and body language, or just simply being a spectator rather than a player.
+These points come from personal experiences as well as observations of today's society, conversations with different people, analysing behaviour and body language, or just simply being a spectator rather than a player.
 
 
 # Schools and Higher Education
-The barrier for entry at a local university is lower than ever; it reminds me of a quote from a George Carlin bit: "They lower the passing grades so more kids can pass. More kids pass, the school looks good, everybody's happy, the IQ of the country slips another two or three points, and pretty soon all you'll need to get into college is a fucking pencil. Got a pencil? Get the fuck in there; it's physics."
+The barrier for entry at a local university is lower than ever; it reminds me of a quote from a George Carlin bit: *"They lower the passing grades so more kids can pass. More kids pass, the school looks good, everybody's happy, the IQ of the country slips another two or three points, and pretty soon all you'll need to get into college is a fucking pencil. Got a pencil? Get the fuck in there; it's physics."*
 
 Schools want good scores, but the students wouldn't be able to keep up with a strict curriculum; therefore, to maintain face and reputation, the schools are forced to lower their expectations. This will be broken down below and will make sense by the end of the article.
 
@@ -27,7 +27,7 @@ To prove my ideas right, for the second year of my course, I've attended a total
 I do believe that this goes to show how unimportant and laughable the education system really is. If only more people spent time on self-improvement and studying, they could become their own professors.
 Rendering the higher education system useless.
 
-Since I haven't spent more hours doing nothing than studying, I was able to create a system for learning that is merely impossible if one is so wrapped up in all the noise.
+Since I've spent more hours studying than doing nothing, I was able to create a system for learning that is merely impossible if one is so wrapped up in all the noise.
 I'm not saying that I'm not guilty of these. I watch Youtube shorts, I play video games, but the ratio is in balance. I study 5-10 hours a day and play 2-3, which I call balance.
 If I work a job, I stop gaming or at least reduce it, keeping work and education my only focus.
 
@@ -44,7 +44,7 @@ thing that has been taken away from these people.
 Parents favour the ease of handing an iPad to their children over genuine care and attention. If not stopped in time, it will get worse. This has already been proven over the last 20 years.
 The negligence of parents, the oversaturated content, and the pressure from social media degrade one's view of the world and narrow it down so that one will be as separated from the real world as possible.
 
-Consumption is the only satisfaction apart from social validation; hence, real-world achievements and goals are diminished. Anyone who's not immersed in this world is frowned upon and is called "boring." The latter comes from experiences of my own.
+Consumption is the only satisfaction apart from social validation; hence, real-world achievements and goals are diminished. Anyone who's not immersed in this world is frowned upon and is called *"boring."* The latter comes from experiences of my own.
 
 ## Thinking time
 When was the last time you spent at least 20 minutes in silence, doing nothing, just relaxing—and, god forbid, maybe even thinking about your life?             
@@ -68,14 +68,14 @@ First, if a 5-year-old presentation is used for explaining a mathematical equati
 2 year old information (which is often misspelt and poorly explained) is not acceptable. Technology evolves day-by-day. Yet the universities teach year-old syntax and modules.
 I understand basic languages like C or Java might not change as much, but it would still be nice to update the PowerPoint so that it describes the latest versions and features of a software.
 
-Professors not knowing what they're doing is a HUGE issue. I myself had to send back 2-3 of my assignments because the professor didn't understand my explanation that was of a higher level.
+Professors not knowing what they're doing is a **HUGE** issue. I myself had to send back 2-3 of my assignments because the professor didn't understand my explanation that was of a higher level.
 I'm no genius, but the fact that a professor or a marker doesn't mark an assignment properly should be a great red flag.
 
 The causation of this can stem from two things. One, as I've mentioned it previously, is the pay. Underpaid staff are not motivated, which makes sense.
 Two is that the professor is so short on knowledge that if there's a better explanation than what their own mind is able to comprehend, they'll automatically mark it as wrong.
 
 This most likely comes from the lack of interest that they have in the field or the fact that they don't make as much money as they deserve. These professors are not trained by the university, and they most likely won't train themselves because of the aforementioned issues.
-Given the lack of motivation and the fall in work ethic, most teachers *(usually I don't refer to them as professors since I don't think they live up to the title of being one)* don't even teach. They read the PowerPoint slides and finish the lecture. If a genuine question arises from a student, they might just answer by saying, *"Google it!"*. Yes, I've heard that exact sentence come from these so-called "professors.". 
+Given the lack of motivation and the fall in work ethic, most teachers *(usually I don't refer to them as professors since I don't think they live up to the title of being one)* don't even teach. They read the PowerPoint slides and finish the lecture. If a genuine question arises from a student, they might just answer by saying, *"Google it!"*. Yes, I've heard that exact sentence come from these so-called *"professors."*. 
 
 Professors should be vetted the same way as students are, and their pay should be increased!
 
@@ -104,5 +104,5 @@ Make sure you leave some space for fun; if you don't, it will cause burnout.
 If a change is not made, the western world will collapse, followed by Europe, and will be taken over by hostile powers.
 
 Just read some books on warfare and history, and you'll see how our current situation will play out!
-Namely, The Prince by Niccolo Machiavelli, The Book of Five Rings by Miyamoto Musashi, The Art of Wat by Sun Tzu, and Meditations by Marcus Aurelius. If read properly and with care, you'll understand the world
+Namely, The Prince by Niccolo Machiavelli, The Book of Five Rings by Miyamoto Musashi, The Art of War by Sun Tzu, and Meditations by Marcus Aurelius. If read properly and with care, you'll understand the world
 and embrace self-improvement to the fullest.
