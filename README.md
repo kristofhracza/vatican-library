@@ -1,2 +1,3 @@
-# Vatican Library - Collection of Notes
-My personal website where I share my views on different topics.
+# Vatican Library
+
+It's a collection of notes that I’ve written to practice my writing or share information on topics that interest me.

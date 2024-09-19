@@ -1,5 +1,5 @@
 languageCode: en-uk
-title: Vatican Library - Collection of Notes
+title: Vatican Library
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
@@ -8,8 +8,8 @@ enableEmoji: true
 
 params:
   homeInfoParams:
-    Title: "Hello Friend!"
-    Content: "These are a collection of notes that I wrote down either for practicing or sharing info."
+    Title: "Hello!"
+    Content: "It's a collection of notes that I've written to practice my writing or share information on topics that interest me."
   cover:
     linkFullImages: true
   ShowBreadCrumbs: true
